@@ -1,0 +1,2 @@
+# news_index_and_predict
+藉由正面與負面新聞判斷股價位階，並預測未來走勢
